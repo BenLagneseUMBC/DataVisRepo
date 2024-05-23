@@ -1,0 +1,1 @@
+These are modified versions of the files provided in the [ESRGAN repo](https://github.com/xinntao/ESRGAN). Mainly built for testing, so might not run off the gate even with a direct file replacement.
